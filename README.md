@@ -7,8 +7,6 @@ Demo for the Angular Signals codelab.
 ## Get set up
 Run `npm install` to install the dependencies required to run the server.
 
-Run `git checkout signals-get-started` to use the `signals-get-started` branch for the codelab. All solutions can be found in the `signals` branch.
-
-Run `ng serve --hmr` to run the server.
+Run `ng serve` to run the server.
 
 Open a browser tab to http://localhost:4200. The app will automatically reload if you change any of the source files.
